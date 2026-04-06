@@ -45,6 +45,7 @@ users['age'].mean()
 users['age'].value_counts().idxmin()```
 
 #Excersise 2
+
 ```# Exercise 2. - Filtering and Sorting Data
 
 Check out [Euro 12 Exercises Video Tutorial](https://youtu.be/iqk5d48Qisg) to watch a data scientist go through the exercises
