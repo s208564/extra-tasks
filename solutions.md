@@ -42,7 +42,8 @@ users['occupation'].describe()
 ### Step 17. What is the mean age of users?
 users['age'].mean()
 ### Step 18. What is the age with least occurrence?
-users['age'].value_counts().idxmin()```
+users['age'].value_counts().idxmin()
+```
 
 #excersise 2
 
