@@ -10,4 +10,4 @@ This is our repositorium with extra tasks.
 all solutions are in one file:
 
 ### [Click here to see the solutions](solutions.md)
-
+###[**Technical Report**](raport.md)
