@@ -1,4 +1,4 @@
-#zad 1
+#excersie 1 
 ```# Exercise 1. - Getting and Knowing your Data
 This time we are going to pull data directly from the internet.
 Special thanks to: https://github.com/justmarkham for sharing the dataset and materials.
@@ -44,7 +44,7 @@ users['age'].mean()
 ### Step 18. What is the age with least occurrence?
 users['age'].value_counts().idxmin()```
 
-#Excersise 2
+#excersise 2
 
 ```# Exercise 2. - Filtering and Sorting Data
 
