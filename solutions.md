@@ -126,7 +126,8 @@ gb
 drinks.groupby('continent').spirit_servings.agg(['mean', 'min', 'max'])```
 
 
-#data vizualization
+# data raport 
+
 ## **Cleaning Data in Python live training**
 
 
