@@ -344,7 +344,7 @@ ct = airbnb.groupby(['room_type', 'price_cat']).size().reset_index(name='count')
 
 fig = px.bar(ct, x="room_type", y="count", color="price_cat", barmode="stack")
 fig.show()
-#plotly express <- website
+#plotly express <- website  
 
 #freq_table= airbnb['price_cat'].value_counts().sort_index().reset_index()
 #freq_table.columns =['price_range', 'frequency']
