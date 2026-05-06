@@ -8,7 +8,7 @@ This is our repositorium with extra tasks.
 
 ## Solutions
 all solutions are in one file:
-
+we added also solutions to data vizualization at the bottom of solution file 
 ### [Click here to see the solutions](solutions.md)
-###[**Technical Report**](raport.md)
-###[**Data visualization**](extra-tasks/Cleaning_Data_in_Python_live_session.ipynb)  
+###[**Technical Report**](raport.md) 
+###[**Data visualization**]   
