@@ -241,7 +241,7 @@ airbnb['room_type'].value_counts()
 airbnb['price'].head(5)
 ## **Our to do list:** 
  
-_Data type problems:_  
+_Data type problems:_   
 
 - **Task 1**: Split `coordinates` into 2 columns and convert them to `float`
 - **Task 2**: Remove `$` from `price` and convert it to `float`
