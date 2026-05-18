@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "pandas_exercises",
+			"path": "../pandas_exercises"
+		}
+	],
+	"settings": {}
+}
